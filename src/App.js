@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Testing Deploy React JS for advance learning.
+          <h4>Author: Mark Suguitan</h4>
         </a>
       </header>
     </div>
