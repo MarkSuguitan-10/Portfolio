@@ -3,7 +3,7 @@ import About from './About';
 import Resume from './Resume';
 import Projects from './Projects';
 import Contact from './Contact';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {HashRouter as Router, Route, Switch} from 'react-router-dom';
 import NaviBar from './NavigationBar';
 
 function App() {
